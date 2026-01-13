@@ -169,6 +169,12 @@ This interactive exploration is the best way to truly understand these concepts.
 
 ---
 
+##Output Screenshots
+<img width="1600" height="749" alt="image" src="https://github.com/user-attachments/assets/4e327f27-0945-4d55-9ab0-fa8ea488b399" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/cc8e8849-515f-4695-ac5a-389e77b87d37" />
+
+
+
 ## Learn More
 
 These concepts are fundamental to:
