@@ -13,8 +13,8 @@ This is how we normally write math in school.
 
 **Example:** `A + B * C`
 
-- Operators sit **between** operands
-- We read left-to-right
+- Operators sit **between** operands.
+- We read left-to-right.
 - Requires parentheses for clarity: `(A + B) * C`
 
 ### Prefix (Polish Notation)
