@@ -1,7 +1,5 @@
 # Expression Converter - Understanding Notation Conversions
 
-## What This Project Does
-
 The Expression Converter transforms mathematical expressions between three different notations: **Infix**, **Prefix**, and **Postfix**. Think of it as a translator for how we write math!
 
 ---
